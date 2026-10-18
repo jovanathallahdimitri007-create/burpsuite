@@ -1,0 +1,12 @@
+1- Open Terminal ( Ctrl + Alt + T )
+2- Run ( sudo apt-get install openjdk-23-jdk )
+3- Run ( chmod +x ./BurpLoaderKeygen117.jar )
+4. klik latest version : 2025.x.x click to download
+5. Run BurpLoaderKeygen117 lalu Rubah nama helloword dengan nama anda lalu jalankan run
+6. COPY lisensi PASTE di burpsuite > NEXT
+7. click "manual activation"
+8. click "copy request"
+9. in keygen, paste clipboard in "activation request" box
+10. in keygen, select all in "activation response" and copy to clipboard
+11. in burp, click "paste response" -> next -> finish
+12. buka burpsuite_pro di desktop.
